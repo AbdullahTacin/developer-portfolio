@@ -304,6 +304,11 @@ footer textarea {
         gap: 20px;
     }
 
+    .headermain .container{
+
+        margin-top: 40px;
+    }
+
     .headermain .profile-image, .headermain .container{
 
         width: 100%;
